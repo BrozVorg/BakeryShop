@@ -60,7 +60,7 @@ export const products: Product[] = [
     description: "Заварное тесто с нежным сливочным кремом.",
     price: 180,
     unit: "шт.",
-    image: "https://images.unsplash.com/photo-1532465909-4e0278961a2a?w=800",
+    image: "/BakeryShop/images/eclairs.jpg",
     category: "desserts",
     badge: "Популярное"
   },
